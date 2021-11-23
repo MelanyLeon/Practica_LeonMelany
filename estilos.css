@@ -5,10 +5,10 @@ body {
 
 .menu {
     list-style: none;
-    padding: 10px;
+    padding: 20px;
     background: #eee0c2;
     width: 100%;
-    max-width: 1000px;
+    max-width: 2000px;
     margin: auto;
 
 }
@@ -16,10 +16,11 @@ body {
 .menu li a{
     text-decoration: none;
     color: white;
-    padding: 20px;
+    padding: 15px;
     background: #888080;
     width: 25%;
-    border-radius: 30px;
+    border-radius: 50px;
+    margin: 20px;
 }
 
 .menu li{
@@ -28,7 +29,7 @@ body {
 }
 
 .menu li a:hover{
-    background: #918e8e;
+    background: #3f3d3d;
 }
 
 .container {
@@ -57,13 +58,12 @@ body {
 }
 
 .boton {
-    width: 5%;
+    width: 50%;
     height: 5rem;
     padding: 0.5rem;
     background: rgb(59, 57, 55);
     text-decoration: none;
     color: white;
-    border: thistle;
-    height: 5rem;
+    border-radius: 5px;
 }
 
